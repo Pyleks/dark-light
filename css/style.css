@@ -57,7 +57,7 @@ body {
 }
 .dark-color-all {
     text-align: center;
-    padding-top: 300px;
+    padding-top: 350px;
     color: white;
     outline: white;
 }
@@ -78,6 +78,14 @@ h2 {
     height: 50px;
     width: 50px;
     background-color: black;
+
+}
+
+.yellow-square {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
 }
 
 .color-wrap {
