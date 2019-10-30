@@ -13,10 +13,7 @@ $(document).ready(function(){
         $("h1").css("color", "black");
         $("h2").css("color", "black");
         $("h1").html("LIGHT");
-
-
     });
-
     $(".black-square").mouseover(function() {
         $("html").css("background-color", "black");
         $("body").css("background-color", "black");
