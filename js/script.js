@@ -1,8 +1,8 @@
 $(document).ready(function(){
-    $("a").mouseover(function() {
+    $("#highlight").mouseover(function() {
         $(this).addClass("makeYellow")
     });
-    $("a").mouseleave(function() {
+    $("#highlight").mouseleave(function() {
         $(this).removeClass("makeYellow")
     });
 
